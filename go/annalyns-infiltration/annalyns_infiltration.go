@@ -1,3 +1,7 @@
+// fichier : annalyn_infiltration.go
+// auteur : David GILLARD
+// date : 05/02/2022
+
 package annalyn
 
 // CanFastAttack can be executed only when the knight is sleeping
