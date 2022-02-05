@@ -1,3 +1,7 @@
+// fichier : lasagna.go
+// auteur : David GILLARD
+// date : 05/02/2022
+
 package lasagna
 // TODO: define the 'OvenTime' constant
 const OvenTime = 40
